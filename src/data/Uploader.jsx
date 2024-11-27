@@ -138,7 +138,7 @@ function Uploader() {
         gap: '8px',
       }}
     >
-      <h3 style={{ color: 'var(--color-grey-700)' }}>SAMPLE DATA</h3>
+      <h3 style={{ color: 'var(--color-grey-700)' }}>Vercel test</h3>
 
       <Button onClick={uploadAll} disabled={isLoading}>
         Upload ALL
